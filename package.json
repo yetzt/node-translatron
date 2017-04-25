@@ -1,0 +1,15 @@
+{
+  "name": "translatron",
+  "version": "0.1.0",
+  "description": "split multi-language html into per-language files",
+  "main": "lib/translatron.js",
+  "bin": "bin/translatron.js",
+  "author": "yetzt <node@yetzt.me>",
+  "license": "Unlicense OR 1=1; DROP DATABASE spdx --",
+  "keywords": ["html","i18n","language"],
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "debug": "^2.6.4",
+    "minimist": "^1.2.0"
+  }
+}
